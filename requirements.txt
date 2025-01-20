@@ -1,0 +1,15 @@
+pandas~=2.2.3
+numpy~=2.0.1
+matplotlib~=3.10.0
+scikit-learn~=1.6.1
+imbalanced-learn~=0.13.0
+seaborn==0.12.2
+tensorflow==2.13.0
+keras==2.13.1
+scipy==1.11.3
+protobuf==4.24.3
+wrapt==1.15.0
+six==1.16.0
+pyyaml==6.0.1
+catboost
+optuna
