@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf6d8d17-0d20-4883-93f6-23d41f9af3a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PredictingEarlyReadmissionforDiabeticPatients.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/DataDictionary.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/RecallMe_pp.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/RecallMe_original.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/PredictingEarlyReadmissionforDiabeticPatients_EDA.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/PredictingEarlyReadmissionforDiabeticPatients_Training.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/PredictingEarlyReadmissionforDiabeticPatients_EDA_Report.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/PredictingEarlyReadmissionforDiabeticPatients_Final_Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/PredictingEarlyReadmissionforDiabeticPatients_EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/PredictingEarlyReadmissionforDiabeticPatients_EDA.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pranjal-Patil-Pers&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Pranjal-Patil-Pers/PredictingEarlyReadmissionforDiabeticPatients.git&quot;,
+    &quot;accountId&quot;: &quot;1fd8e60b-f105-43ff-ad8d-5d1b3440c31d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -39,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Pranjal/workspace/PredictingEarlyReadmissionforDiabeticPatients/data",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pranjal/workspace/GIT_commands.txt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Pranjal\workspace\PredictingEarlyReadmissionforDiabeticPatients\data" />
@@ -62,6 +62,7 @@
       <recent name="C:\Users\Pranjal\workspace\PredictingEarlyReadmissionforDiabeticPatients\reports" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pranjal\workspace\PredictingEarlyReadmissionforDiabeticPatients\data\processed" />
       <recent name="C:\Users\Pranjal\workspace\PredictingEarlyReadmissionforDiabeticPatients\" />
     </key>
   </component>
@@ -82,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1737327909343</updated>
       <workItem from="1737327910572" duration="109000" />
-      <workItem from="1737329281467" duration="3740000" />
+      <workItem from="1737329281467" duration="5391000" />
+      <workItem from="1737335728842" duration="73000" />
     </task>
     <servers />
   </component>
